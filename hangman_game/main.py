@@ -26,4 +26,3 @@ while game_counter > 0:
                     print(blank_word)
 
     game_counter -= 1
-
