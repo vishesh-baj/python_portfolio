@@ -1,12 +1,5 @@
 import random
 print("Welcome to black jack game")
-
-# todo: create an array with 1 - 10 with 3  more 10 for J Q and K cards
-# todo: randomly pick two cards out of the deck for computer and user that is playing the game
-# todo: ask for another card for user, if the sum of all cards exceed by 21, computer will win the game else, user wins
-# todo: Show the final result and cards for computer and user
-# todo: ask user to play the game again
-
 deck = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
 
