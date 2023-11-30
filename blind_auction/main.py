@@ -25,7 +25,7 @@ while not auction_over:
     auctions_list.append(new_dict)
     print(auctions_list)
     should_continue = input("Are there any other bidders?:  ")
-    if should_continue == "yes":
+    if should_continue == "yes" or "YES" or "y":
         continue
     else:
         # calculate top bidder
