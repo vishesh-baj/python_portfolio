@@ -28,6 +28,7 @@ def cipher(cipher_type, message, shift_number):
 
 iterator = True
 
+
 while iterator:
     cipher_type_value = input("What do you want to achieve? encrypt or decode: ")
     cipher_message = input("Enter a message to cipher: ")
@@ -38,3 +39,4 @@ while iterator:
     continue_loop = input("Would you like to continue or exit? Enter 'yes' to continue, and 'no' to terminate: ")
     if continue_loop.lower() == "no":
         iterator = False
+
