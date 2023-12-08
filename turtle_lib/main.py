@@ -29,6 +29,7 @@ def draw_dashed_line():
 
 colors = ["red", "blue", "black", "teal", "pink", "gray", "black"]
 
+
 # draw shapes
 def draw_shapes():
     for i in range(3, 11):

@@ -90,6 +90,10 @@ def create_matrix(length):
     return parent_list
 
 
+# random walk
+def random_walk():
+
+
 def main():
     game_over = False
     turn = 0
